@@ -13,7 +13,7 @@ Hi, I’m Ashraful Islam, a Web Developer with 1 year of experience. I’m passi
 
 ## Recently Finished Project
 
-### 🏨 <span style="color:#39A7FF;font-weight:bold">BLOOMS FOR LIFE</span>
+### 💉 <span style="color:#39A7FF;font-weight:bold">BLOOMS FOR LIFE</span>
 
    * You can create a blood donation request by registering on the website as a donor 
 
@@ -23,7 +23,7 @@ Hi, I’m Ashraful Islam, a Web Developer with 1 year of experience. I’m passi
 
 ### <u style="color: #2F81F7">[Live Link](https://blooms-for-life.web.app)</u>
 
-### 🏨 <span style="color:#39A7FF;font-weight:bold">MIDNIGHT MIRAGE HOTEL</span>
+### 🏢 <span style="color:#39A7FF;font-weight:bold">MIDNIGHT MIRAGE HOTEL</span>
 
    * You can book a hotel room for a specific date
 
@@ -33,7 +33,7 @@ Hi, I’m Ashraful Islam, a Web Developer with 1 year of experience. I’m passi
 
 ### <u style="color: #2F81F7">[Live Link](https://hotel-booking-5f32b.web.app)</u>
 
-### 🏨 <span style="color:#39A7FF;font-weight:bold">BRANDY</span>
+### 🚕 <span style="color:#39A7FF;font-weight:bold">BRANDY</span>
 
    * You can explore and purchase a car
 
