@@ -1,7 +1,7 @@
 ![Alt Text](https://shorturl.at/gANU4)
 
 ## About Myself
-I'm Ashraful Islam and 
+Hi, I’m Ashraful Islam, a Web Developer with 1 years of experience. I’m passionate about creating beautiful, functional websites. My goal is to deliver results-driven solutions that not only reflect your unique brand identity but also provide an exceptional user experience. I always try to update myself.
 
 
 ## I'm Expert In
