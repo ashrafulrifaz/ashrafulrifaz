@@ -1,4 +1,4 @@
-![photo](https://i.ibb.co.com/5YWvNkd/github-img.png)
+![photo](https://shorturl.at/9e4Uw)
 
 ## About Myself
 Hi, I’m Ashraful Islam, a Web Developer with 1 year of experience. I’m passionate about creating beautiful, functional websites. My goal is to deliver results-driven solutions that not only reflect your unique brand identity but also provide an exceptional user experience. I always try to update myself.
